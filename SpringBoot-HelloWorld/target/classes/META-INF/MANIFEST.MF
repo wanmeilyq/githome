@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: SpringBoot-HelloWorld
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.by4g
+Build-Jdk: 1.7.0_45
+Built-By: Lenovo
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBoot-H
+ elloWorld/
+
